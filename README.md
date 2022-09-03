@@ -1,2 +1,2 @@
-# Projeto-Titanic (A postar)
+# Projeto-Titanic (A publicar)
 Trabalhando com os dados do Titanic.
